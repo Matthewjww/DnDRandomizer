@@ -1,0 +1,9 @@
+TODO:
+Randomize race
+Randomize gender
+Randomize age based on race and user selection of age type
+Randomize personality
+Randomize goals based on personality
+Randomize class based on personality
+
+
